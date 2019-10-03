@@ -84,6 +84,7 @@ class CalculatorTest extends TestCase
             $this->calc->reverse([2,3]),
             'wrong reverse'
         );
+
     }
 
     protected function tearDown(): void

@@ -68,4 +68,5 @@ class Calculator
         $rev = array_reverse($array);
         return $rev;
     }
+
 }
